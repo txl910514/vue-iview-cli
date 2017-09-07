@@ -1,0 +1,10 @@
+[class^="ivu-icon-fontAwesome"], [class*=" ivu-icon-fontAwesome"] {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome!important;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+};
+$fa-css-prefix: ivu-icon-fontAwesome;
+@import "~font-awesome/scss/font-awesome";

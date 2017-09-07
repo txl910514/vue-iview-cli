@@ -1,0 +1,32 @@
+{
+  "demo": [
+    {
+      "url": "/search_music",
+      "mock": true,
+      "res": {
+        "success": true,
+        "message": "大屏医院列表",
+        "data": {
+          "en": {
+            "hos_list|3": [
+              {
+                "id": 120306,
+                "nameZh": "sichuansheng renming hospital",
+                "nameEnglish": "@word(7,9)"
+              }
+            ]
+          },
+          "zh": {
+            "hos_list|3": [
+              {
+                "id": 120306,
+                "nameZh": "四川省人民医院",
+                "nameEnglish": "@word(7,9)"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
